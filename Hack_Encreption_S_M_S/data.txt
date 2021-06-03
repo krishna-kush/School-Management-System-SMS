@@ -1,0 +1,574 @@
+k:\ => ['$RECYCLE.BIN', '.Programming', 'Arts', 'Book', 'data.txt', 'Etc', 'font name.txt', 'Memories', 'Movies', 'passwords.txt', 'pk', 'Softwares', 'Songs', 'Story', 'Study', 'System Volume Information', 'Video Projects', 'Wallpaper']
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+$RECYCLE.BIN
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+.Programming
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\.Programming => ['C#', 'Django', 'Graph and Equations with p5.js', 'how to set up git.txt', 'Java', 'JavaScript', 'node_modules', 'Python', 'Unity_Games', 'Web', 'Your Movie Genie']
+
+k:\.Programming\C# => ['Calculator', 'Even_Odd', 'Exception doubt', 'Greater', 'Greatest', 'guess the no game', 'Learning', 'Main Program(acces_everything)', 'String']
+
+k:\.Programming\C#\Calculator => ['.vs']
+
+k:\.Programming\C#\Calculator\.vs => ['Calculator']
+
+k:\.Programming\C#\Calculator\.vs\Calculator => ['DesignTimeBuild', 'v16']
+
+k:\.Programming\C#\Calculator\.vs\Calculator\DesignTimeBuild => ['.dtbcache']
+
+k:\.Programming\C#\Calculator\.vs\Calculator\v16 => ['.suo', 'Server']
+
+k:\.Programming\C#\Calculator\.vs\Calculator\v16\Server => ['sqlite3']
+
+k:\.Programming\C#\Calculator\.vs\Calculator\v16\Server\sqlite3 => ['db.lock', 'storage.ide']
+
+k:\.Programming\Java => ['try.java']
+
+k:\.Programming\JavaScript => ['Map_Func.js', 'not P5.js', 'P5.js', 'run.html', 'StringFormating.js', 'The Game Of Life (with p5.js)']
+
+k:\.Programming\JavaScript\not P5.js => ['run.htm', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js => ['Bounce Boxes', 'Bubble Shake', 'Buttons Lame', 'Disco', 'Display rational no diagram', 'Draw', 'Drawing Panel', 'Falling Ball (True Gravity)', 'Gradient Control', 'not P5.js', 'Perlin Noise', 'PingPong', 'Purple Rain', 'Random Circles', 'Random Walker', 'run.html', 'TikTakToe']
+
+k:\.Programming\JavaScript\P5.js\Bounce Boxes => ['run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Bubble Shake => ['byClass', 'byFunc']
+
+k:\.Programming\JavaScript\P5.js\Bubble Shake\byClass => ['bubble.js', 'main.js', 'run.htm']
+
+k:\.Programming\JavaScript\P5.js\Bubble Shake\byFunc => ['run.htm', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Disco => ['run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Display rational no diagram => ['run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Draw => ['run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Drawing Panel => ['run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Falling Ball (True Gravity) => ['run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Gradient Control => ['run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\not P5.js => ['run.htm', 'run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Perlin Noise => ['1D', '2D', 'OpenSimplexNoise.java', 'TvSignal']
+
+k:\.Programming\JavaScript\P5.js\Perlin Noise\1D => ['run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Perlin Noise\2D => ['run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Perlin Noise\TvSignal => ['run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Purple Rain => ['drop.js', 'run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Random Circles => ['run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\Random Walker => ['run.html', 'sketch.js']
+
+k:\.Programming\JavaScript\P5.js\TikTakToe => ['comp.js', 'dual.js', 'runComp.html', 'runDual.html']
+
+k:\.Programming\Python => ['1.py', '10.py', '11.py', '2.py', '3.py', '4.py', '5.py', '6.py', '7.py', '8.py', '9.py', 'adi game guess the brand.py', 'Adi game Snake-Run final.py', 'adi game turtle.py', 'adi game1 modified problem.py', 'adi game1.py', 'adi project', 'adi tp at turtle.py', 'adi_snake_game.py', 'Advanced guess the game.py', 'alphabet_rangoli.py', 'arenge_files', 'Automate.py', 'Bar Graph Flow', 'Bouncing_boxes.py', 'Box game Doubt.py', 'Box_Game', 'bSc 1-year project', 'calculator.py', 'challange_rahul.py', 'code help', 'coloured_text.py', 'Diversing_boxes.py', 'DoorMat_design.py', 'Doubt.py', 'draw_circle_continious.py', 'Element_Counter.py', 'Encreption', 'Enumerate Function.py', 'equlateral_triangle_pattern.py', 'fact.py', 'fact_by_recursion.py', 'fact_odd_even.py', 'Fibonacci Series.py', 'find average of 3 no and show to 2 decimal places.py', 'Find Bionomial Equation Roots.py', 'find second largest no.py', 'find sum of int of no.py', 'first_letter_capatilise.py', 'First_Letter_Capatilise_Advance.py', 'function fact.py', 'func_parameter_order.py', 'Greater no. func.py', 'Greatest no. function.py', 'guess the no game.py', 'Hack', 'Hacker Rank', 'high_score', 'how to create .py to .exe.txt', 'How To Make Modules and Import them', 'h_bday_msg.py', 'kivy', 'Learn', 'Library Management System', 'LogIn_Pass_change', 'name_starting.py', 'networkTutrorial', 'New folder', 'not_understanded_running_graph.py', 'offline_pakage', 'operater.py', 'power_by_args.py', 'power_by_recursion.py', 'printing stars.py', 'Quadratic Equation Root Finder.py', 'rahul project', 'rahul_challenge.txt', 'rename_poem', 'reverse the word by for.py', 'Reverse your name.py', 'School Management System (SMS)', 'Search_Sum.py', 'Simple_Pyploting_example.py', 'Snake Game', 'Study', 'substring_counting_in_string.py', 'swap_case.py', 'TEST.py', 'text.txt', 'text1.txt', 'TicTacToe Game', 'TikTacToe.py', 'timepass.py', 'Tkinter', 'to check palidrome.py', 'tp with turtle.py', 'tp.py', 'Try_BST.py', 'try_to_make_string_a_palidrome.py', 'Turtle.py', 'tut0', 'use of for loop.py', 'very advanced guess the no game doubt.py', 'very advanced guess the no game.py', 'wrap_string_in_paragraph.py', '__pycache__']
+
+k:\.Programming\Python\adi project => ['account_numbers.py', 'account_numbers.txt', 'B_M_S Graphical.py', 'B_M_S.py', 'database.txt', 'info.txt', 'user_info.txt', '__pycache__']
+
+k:\.Programming\Python\adi project\__pycache__ => ['account_numbers.cpython-38.pyc', 'account_numbers.cpython-39.pyc']
+
+k:\.Programming\Python\adi project\__pycache__ => ['account_numbers.cpython-38.pyc', 'account_numbers.cpython-39.pyc']
+
+k:\.Programming\Your Movie Genie => ['.npmrc', 'css', 'fake netflix code', 'how to import', 'html', 'img', 'index.js', 'js', 'Movie data by WS', 'node_modules', 'package-lock.json', 'package.json', 'to remember', 'try.js', 'txt', 'views']
+
+k:\.Programming\Your Movie Genie\css => ['contact.css', 'gate.css', 'home.css', 'homeOld.css', 'logIn.css', 'request.css', 'signUp.css']
+
+k:\.Programming\Your Movie Genie\fake netflix code => ['com.sunset.collage']
+
+k:\.Programming\Your Movie Genie\fake netflix code\com.sunset.collage => ['AndroidManifest.xml', 'icon.png', 'info.json', 'src']
+
+k:\.Programming\Your Movie Genie\fake netflix code\com.sunset.collage\src => ['assets', 'java', 'res']
+
+k:\.Programming\Your Movie Genie\fake netflix code\com.sunset.collage\src\assets => ['fonts', 'index.android.bundle', 'index.android.bundle.meta', 'mixdrop.js', 'openload.js']
+
+k:\.Programming\Your Movie Genie\fake netflix code\com.sunset.collage\src\assets\fonts => ['Roboto-Regular.ttf', 'RobotoCondensed-Bold.ttf', 'verdana.ttf']
+
+k:\.Programming\Your Movie Genie\fake netflix code\com.sunset.collage\src\java => ['a', 'c', 'com', 'de', 'e', 'f', 'g', 'h', 'i', 'it', 'j', 'k', 'm', 'n', 'p', 'pl', 'summary.txt']
+
+k:\.Programming\Your Movie Genie\fake netflix code\com.sunset.collage\src\java\a => ['a']
+
+k:\.Programming\Your Movie Genie\fake netflix code\com.sunset.collage\src\java\a\a => ['a']
+
+k:\.Programming\Your Movie Genie\fake netflix code\com.sunset.collage\src\java\a\a\a => ['a.java', 'b.java', 'c.java', 'd.java', 'e.java', 'f.java', 'h.java', 'i.java']
+
+k:\.Programming\Your Movie Genie\js => ['homeScript.js', 'homeScriptOld.js', 'idGenerator.js', 'logInScript.js', 'requestScript.js', 'run.html', 'server.js', 'signUpScript.js', 'test.js']
+
+k:\.Programming\Your Movie Genie\Movie data by WS => ['extramovies', 'moviesverse', 'node_modules', 'package-lock.json', 'package.json', 'reference.js']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\extramovies => ['add_movie_name_to_database.js', 'arr_in_ass_num_order.js', 'data.csv', 'data_of_18+.csv', 'data_with_ass_num_order.csv', 'data_with_movie_name.csv', 'graspAllData.js', 'make_sep_file_for_18+.js']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\moviesverse => ['add_movie_name_to_database.js', 'arr_in_ass_num_order.js', 'data.csv', 'data_with_ass_num_order.csv', 'download_link.js', 'graspAllData.js', 'unlockLink.js', 'unlockLink1.js']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules => ['.bin', '@types', 'ajv', 'asn1', 'assert-plus', 'asynckit', 'aws-sign2', 'aws4', 'bcrypt-pbkdf', 'bluebird', 'boolbase', 'caseless', 'cheerio', 'combined-stream', 'core-util-is', 'css-select', 'css-what', 'dashdash', 'delayed-stream', 'dom-serializer', 'domelementtype', 'domhandler', 'domutils', 'ecc-jsbn', 'entities', 'extend', 'extsprintf', 'fast-deep-equal', 'fast-json-stable-stringify', 'forever-agent', 'form-data', 'fs', 'getpass', 'har-schema', 'har-validator', 'htmlparser2', 'http-signature', 'inherits', 'is-typedarray', 'isstream', 'jsbn', 'json-schema', 'json-schema-traverse', 'json-stringify-safe', 'jsprim', 'lodash', 'mime-db', 'mime-types', 'nth-check', 'oauth-sign', 'parse5', 'performance-now', 'psl', 'punycode', 'qs', 'readable-stream', 'request', 'request-promise', 'request-promise-core', 'safe-buffer', 'safer-buffer', 'sshpk', 'stealthy-require', 'string_decoder', 'tough-cookie', 'tunnel-agent', 'tweetnacl', 'uri-js', 'util-deprecate', 'uuid', 'verror']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\.bin => ['sshpk-conv', 'sshpk-conv.cmd', 'sshpk-conv.ps1', 'sshpk-sign', 'sshpk-sign.cmd', 'sshpk-sign.ps1', 'sshpk-verify', 'sshpk-verify.cmd', 'sshpk-verify.ps1', 'uuid', 'uuid.cmd', 'uuid.ps1']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\@types => ['node']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\@types\node => ['assert.d.ts', 'async_hooks.d.ts', 'base.d.ts', 'buffer.d.ts', 'child_process.d.ts', 'cluster.d.ts', 'console.d.ts', 'constants.d.ts', 'crypto.d.ts', 'dgram.d.ts', 'dns.d.ts', 'domain.d.ts', 'events.d.ts', 'fs', 'fs.d.ts', 'globals.d.ts', 'globals.global.d.ts', 'http.d.ts', 'http2.d.ts', 'https.d.ts', 'index.d.ts', 'inspector.d.ts', 'LICENSE', 'module.d.ts', 'net.d.ts', 'os.d.ts', 'package.json', 'path.d.ts', 'perf_hooks.d.ts', 'process.d.ts', 'punycode.d.ts', 'querystring.d.ts', 'readline.d.ts', 'README.md', 'repl.d.ts', 'stream.d.ts', 'string_decoder.d.ts', 'timers.d.ts', 'tls.d.ts', 'trace_events.d.ts', 'ts3.4', 'ts3.6', 'tty.d.ts', 'url.d.ts', 'util.d.ts', 'v8.d.ts', 'vm.d.ts', 'wasi.d.ts', 'worker_threads.d.ts', 'zlib.d.ts']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\@types\node\fs => ['promises.d.ts']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\@types\node\ts3.4 => ['assert.d.ts', 'base.d.ts', 'globals.global.d.ts', 'index.d.ts']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\@types\node\ts3.6 => ['base.d.ts', 'index.d.ts']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\@types\node\fs => ['promises.d.ts']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules => ['.bin', '@types', 'ajv', 'asn1', 'assert-plus', 'asynckit', 'aws-sign2', 'aws4', 'bcrypt-pbkdf', 'bluebird', 'boolbase', 'caseless', 'cheerio', 'combined-stream', 'core-util-is', 'css-select', 'css-what', 'dashdash', 'delayed-stream', 'dom-serializer', 'domelementtype', 'domhandler', 'domutils', 'ecc-jsbn', 'entities', 'extend', 'extsprintf', 'fast-deep-equal', 'fast-json-stable-stringify', 'forever-agent', 'form-data', 'fs', 'getpass', 'har-schema', 'har-validator', 'htmlparser2', 'http-signature', 'inherits', 'is-typedarray', 'isstream', 'jsbn', 'json-schema', 'json-schema-traverse', 'json-stringify-safe', 'jsprim', 'lodash', 'mime-db', 'mime-types', 'nth-check', 'oauth-sign', 'parse5', 'performance-now', 'psl', 'punycode', 'qs', 'readable-stream', 'request', 'request-promise', 'request-promise-core', 'safe-buffer', 'safer-buffer', 'sshpk', 'stealthy-require', 'string_decoder', 'tough-cookie', 'tunnel-agent', 'tweetnacl', 'uri-js', 'util-deprecate', 'uuid', 'verror']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\.bin => ['sshpk-conv', 'sshpk-conv.cmd', 'sshpk-conv.ps1', 'sshpk-sign', 'sshpk-sign.cmd', 'sshpk-sign.ps1', 'sshpk-verify', 'sshpk-verify.cmd', 'sshpk-verify.ps1', 'uuid', 'uuid.cmd', 'uuid.ps1']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\@types => ['node']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\@types\node => ['assert.d.ts', 'async_hooks.d.ts', 'base.d.ts', 'buffer.d.ts', 'child_process.d.ts', 'cluster.d.ts', 'console.d.ts', 'constants.d.ts', 'crypto.d.ts', 'dgram.d.ts', 'dns.d.ts', 'domain.d.ts', 'events.d.ts', 'fs', 'fs.d.ts', 'globals.d.ts', 'globals.global.d.ts', 'http.d.ts', 'http2.d.ts', 'https.d.ts', 'index.d.ts', 'inspector.d.ts', 'LICENSE', 'module.d.ts', 'net.d.ts', 'os.d.ts', 'package.json', 'path.d.ts', 'perf_hooks.d.ts', 'process.d.ts', 'punycode.d.ts', 'querystring.d.ts', 'readline.d.ts', 'README.md', 'repl.d.ts', 'stream.d.ts', 'string_decoder.d.ts', 'timers.d.ts', 'tls.d.ts', 'trace_events.d.ts', 'ts3.4', 'ts3.6', 'tty.d.ts', 'url.d.ts', 'util.d.ts', 'v8.d.ts', 'vm.d.ts', 'wasi.d.ts', 'worker_threads.d.ts', 'zlib.d.ts']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\@types\node\fs => ['promises.d.ts']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\@types\node\ts3.4 => ['assert.d.ts', 'base.d.ts', 'globals.global.d.ts', 'index.d.ts']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\@types\node\ts3.6 => ['base.d.ts', 'index.d.ts']
+
+k:\.Programming\Your Movie Genie\Movie data by WS\node_modules\@types\node\fs => ['promises.d.ts']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Arts
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\Arts => ['Dialouge', 'Guitar', 'Photoshop', 'Poem', 'Video']
+
+k:\Arts\Dialouge => ['betray.txt', 'enjoy.txt', 'First_Letter_Capatilise_Advance.py', 'indulge.txt', 'kingkiller dialouges.txt', 'kingkiller name dialouge.txt', 'MIght.txt', 'not right.txt', 'Secrets.txt', 'thoughts.txt', 'true courage (from the breaker).txt', 'when.txt']
+
+k:\Arts\Guitar => ['Aashiqui 2 LOVE THEME Guitar Tabs_Lead Lesson By FuZaiL Xiddiqui _ Tum Hi Ho _ instrumental Cover.mp4']
+
+k:\Arts\Photoshop => ['Awaaz', 'bss_lavz', 'Cuba_Logo', 'K', 'Landscape', 'NameLess', 'New project', 'Yaadain-Video-Meterial']
+
+k:\Arts\Photoshop\Awaaz => ['alfaaz cover.psd', 'AWAAZ logo smaal.jpg', 'AWAAZ logo smaal.psd', 'Awaaz logo YouTube Dark Theme.jpg', 'Awaaz logo YouTube Dark Theme.psd', 'Awaaz logo YouTube.jpg', 'Awaaz logo YouTube.psd', 'Awaaz logo.psd']
+
+k:\Arts\Photoshop\bss_lavz => ['Arts (Poems)', 'bss LAVZ cover.jpg', 'bss LAVZ cover.psd', 'lavz logo dark theme.jpg', 'lavz logo dark theme.psd', 'lavz logo.jpg', 'lavz logo.psd']
+
+k:\Arts\Photoshop\bss_lavz\Arts (Poems) => ['Lavz 1.jpg', 'Lavz 1.psd', 'Lavz 10 (cme_3).jpg', 'Lavz 10 (cme_3).psd', 'Lavz 11 (cme_4).jpg', 'Lavz 11 (cme_4).psd', 'Lavz 12 (cme_5).jpg', 'Lavz 12 (cme_5).psd', 'Lavz 13 (cme_6).jpg', 'Lavz 13 (cme_6).psd', 'Lavz 14 (cme_7).jpg', 'Lavz 14 (cme_7).psd', 'Lavz 15.jpg', 'Lavz 15.psd', 'Lavz 16.jpg', 'Lavz 16.psd', 'Lavz 17.jpg', 'Lavz 17.psd', 'Lavz 18 (Nhi tha).jpg', 'Lavz 18 (Nhi tha).psd', 'Lavz 19 (Memories).jpg', 'Lavz 19 (Memories).psd', 'Lavz 2.jpg', 'Lavz 2.psd', 'Lavz 20 (Jiske Aane Se).jpg', 'Lavz 20 (Jiske Aane Se).psd', 'Lavz 21 (Kehna Hai).jpg', 'Lavz 21 (Kehna Hai).psd', 'Lavz 22 (Pal Pal).jpg', 'Lavz 22 (Pal Pal).psd', 'Lavz 23 (Teacher Of Mine).jpg', 'Lavz 23 (Teacher Of Mine).psd', 'Lavz 24 (Me Yaadain Dhundhne Nikla Tha_Part-1).jpg', 'Lavz 24 (Me Yaadain Dhundhne Nikla Tha_Part-1).psd', 'Lavz 24 (Me Yaadain Dhundhne Nikla Tha_Part-2).jpg', 'Lavz 24 (Me Yaadain Dhundhne Nikla Tha_Part-2).psd', 'Lavz 3.jpg', 'Lavz 3.psd', 'Lavz 4.jpg', 'Lavz 4.psd', 'Lavz 5 (Dost).jpg', 'Lavz 5 (Dost).psd', 'Lavz 6 (thank_You).jpg', 'Lavz 6 (thank_You).psd', 'Lavz 7.jpg', 'Lavz 7.psd', 'Lavz 8 (cme_1).jpg', 'Lavz 8 (cme_1).psd', 'Lavz 9 (cme_2).jpg', 'Lavz 9 (cme_2).psd']
+
+k:\Arts\Photoshop\Cuba_Logo => ['GAme_LOgo.psd', 'GAme_LOgo_png.png']
+
+k:\Arts\Photoshop\K => ['K logo YouTube.jpg', 'K logo YouTube.psd']
+
+k:\Arts\Photoshop\Landscape => ['landscape_day.psd', 'landscape_night.psd', 'landscape_night_jpg.jpg', 'landscape_night_rain_video.mp4']
+
+k:\Arts\Photoshop\NameLess => ['8K Cover.jpg', '8K Cover.psd', 'Cover.jpg', 'Cover.psd', 'NameLess Cover 1.jpg', 'NameLess Cover 1.psd', 'NameLess Cover diff. size.png', 'NameLess Cover.jpg', 'NameLess Cover.psd']
+
+k:\Arts\Photoshop\New project => ['55b8d2f31b3141c6d30dbfb601472832.jpg', 'desert-1448579_960_720.webp', 'landscape sceane 1.psd']
+
+k:\Arts\Photoshop\Yaadain-Video-Meterial => ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg']
+
+k:\Arts\Video => ['4k.mp4']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Book
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\Book => ['introduction to algorithms', 'Maths class 12', 'The Kingkiller Chronicle']
+
+k:\Book\introduction to algorithms => ['introduction-to-algorithms-third-edition.pdf']
+
+k:\Book\Maths class 12 => ['Book 1', 'Book 2']
+
+k:\Book\Maths class 12\Book 1 => ['Ch-1 (RELATIONS AND FUNCTIONS).pdf', 'Ch-2 (INVERSE TRIGONOMETRIC).pdf', 'Ch-3 (MATRICES).pdf', 'Ch-4 (DETERMINANTS).pdf', 'Ch-5 (CONTINUITY AND DIFFERENTIABILITY).pdf', 'Ch-6 (APPLICATION OF DERIVATIVES).pdf', 'lemh1a1.pdf', 'lemh1a2.pdf', 'lemh1an.pdf', 'lemh1ps.pdf']
+
+k:\Book\Maths class 12\Book 2 => ['Ch-10 (VECTOR ALGEBRA).pdf', 'Ch-11 (THREE DIMENSIONAL GEOMETRY).pdf', 'Ch-12 (LINEAR PROGRAMMING).pdf', 'Ch-13 (PROBABILITY).pdf', 'Ch-7 (INTEGRALS).pdf', 'Ch-8 (APPLICATION OF INTEGRALS).pdf', 'Ch-9 (DIFFERENTIAL EQUATIONS).pdf', 'lemh2an.pdf', 'lemh2ps.pdf', 'lemh2sm.pdf']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+data.txt
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Etc
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\Etc => ['audio_only.m4a', 'pawri', 'playback.m3u', 'VID20200621123334.mp4', 'WhatsApp Video 2020-01-06 at 4.59.07 PM.mp4', 'WhatsApp Video 2020-01-06 at 9.28.21 PM.mp4', 'WhatsApp Video 2020-01-09 at 4.54.26 PM.mp4', 'WhatsApp Video 2020-02-09 at 2.36.05 PM.mp4', 'WhatsApp Video 2020-03-02 at 3.03.09 PM.mp4', 'zoom_0.mp4']
+
+k:\Etc\pawri => ['pawri ho rhi hai.mp4', 'pawri.mp4', 'VID20210215174307.mp4']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+font name.txt
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Memories
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\Memories => ['6 feb', 'Chaat 2020', "Cme_b'day_2021", 'Deepanka', 'etc', 'Holi', 'Independance Day 2020', 'Other']
+
+k:\Memories\6 feb => ['IMG20210206173851_00.jpg', 'IMG20210206173951_00.jpg', 'IMG20210206173959_00.jpg', 'IMG20210206174012_00.jpg', 'IMG20210206174017_00.jpg', 'IMG20210206174515_00.jpg', 'IMG20210206174609_00.jpg', 'IMG20210206174634_00.jpg', 'IMG20210206174636_00.jpg', 'IMG20210206174700_00.jpg', 'IMG20210206174721_00.jpg', 'IMG20210206174741_00.jpg', 'IMG20210206174822_00.jpg', 'IMG20210206174838_00.jpg', 'k.mp4', 'r.mp4']
+
+k:\Memories\Chaat 2020 => ['1', '2', 'edit']
+
+k:\Memories\Chaat 2020\1 => ['IMG20201116112355.jpg', 'IMG20201116112359.jpg', 'IMG20201116112503.jpg', 'IMG20201116112507.jpg', 'IMG20201116112514.jpg', 'IMG20201116112528.jpg', 'IMG20201116112608.jpg', 'IMG20201116112614.jpg', 'IMG20201116112619.jpg', 'IMG20201116112635.jpg', 'IMG20201116112649.jpg', 'IMG20201116112650.jpg', 'IMG20201116112658.jpg', 'IMG20201116112713.jpg', 'IMG20201116123701.jpg', 'IMG20201116123705.jpg', 'IMG20201117134818.jpg', 'IMG20201119083104.jpg', 'IMG20201119100450.jpg', 'IMG20201119100513.jpg', 'IMG20201119100531.jpg', 'IMG20201119100557.jpg', 'IMG20201119100628.jpg', 'IMG20201119101820.jpg', 'IMG20201119101822.jpg', 'IMG20201119103353.jpg', 'IMG20201119154212.jpg', 'IMG20201119155848.jpg', 'IMG20201119155927.jpg', 'IMG20201119160242.jpg', 'IMG20201119190847.jpg', 'IMG20201119194405.jpg', 'IMG20201119194437.jpg', 'IMG20201120154857.jpg', 'IMG20201120154858.jpg', 'IMG20201120155245.jpg', 'IMG20201120155302.jpg', 'IMG20201120155305.jpg', 'IMG20201120155309.jpg', 'IMG20201120155358.jpg', 'IMG20201120155454.jpg', 'IMG20201120155501.jpg', 'IMG20201120160124.jpg', 'IMG20201120160539.jpg', 'IMG20201120160828.jpg', 'IMG20201120160830.jpg', 'IMG20201120160927.jpg', 'IMG20201120160936.jpg', 'IMG20201120160943.jpg', 'IMG20201120160946.jpg', 'IMG20201120160950.jpg', 'IMG20201120161009.jpg', 'IMG20201120161017.jpg', 'IMG20201120161029.jpg', 'IMG20201120163442.jpg', 'IMG20201120163812.jpg', 'IMG20201120163817.jpg', 'IMG20201120182918.jpg', 'IMG20201120182924.jpg', 'IMG20201120184722_01.jpg', 'IMG20201121051812.jpg', 'IMG20201121051917.jpg', 'IMG20201121051931.jpg', 'IMG20201121052030.jpg', 'IMG20201121052034.jpg', 'IMG20201121052043.jpg', 'IMG20201121052044.jpg', 'IMG20201121053511.jpg', 'IMG20201121053644.jpg', 'IMG20201121053646.jpg', 'IMG20201121053648.jpg', 'IMG20201121053653.jpg', 'IMG20201121054745.jpg', 'IMG20201121055140.jpg', 'IMG20201121055249.jpg', 'IMG20201121055253.jpg', 'IMG20201121055446.jpg', 'IMG20201121055613.jpg', 'IMG20201121055734.jpg', 'IMG20201121060013.jpg', 'IMG20201121060039.jpg', 'IMG20201121060042.jpg', 'IMG20201121060055.jpg', 'IMG20201121062531.jpg', 'IMG20201121062539.jpg', 'IMG20201121062543.jpg', 'IMG20201121062548.jpg', 'IMG20201121062553.jpg', 'IMG20201121183826.jpg', 'IMG20201122110348.jpg', 'IMG20201122110352.jpg', 'IMG20201122110358.jpg', 'IMG20201122110401.jpg', 'Webp.net-gifmaker.gif']
+
+k:\Memories\Chaat 2020\2 => ['IMG-20201120-WA0053.jpg', 'IMG-20201120-WA0057.jpg', 'IMG-20201120-WA0074.jpg', 'IMG-20201120-WA0076.jpg', 'IMG-20201120-WA0101.jpg', 'IMG-20201120-WA0102.jpg', 'IMG-20201120-WA0103.jpg', 'IMG-20201120-WA0104.jpg', 'IMG-20201121-WA0094.jpg', 'IMG-20201121-WA0096.jpg', 'IMG-20201121-WA0099.jpg', 'IMG-20201121-WA0100.jpg', 'IMG-20201121-WA0101.jpg', 'IMG-20201121-WA0103.jpg', 'IMG-20201121-WA0104.jpg', 'IMG-20201121-WA0108.jpg', 'IMG-20201121-WA0110.jpg', 'IMG-20201121-WA0112.jpg', 'IMG-20201121-WA0114.jpg', 'IMG-20201121-WA0115.jpg', 'IMG-20201121-WA0117.jpg', 'IMG-20201121-WA0119.jpg', 'IMG-20201121-WA0121.jpg', 'IMG-20201121-WA0123.jpg', 'IMG-20201121-WA0132.jpg', 'IMG-20201121-WA0139.jpg', 'IMG-20201121-WA0144.jpg', 'IMG-20201121-WA0146.jpg', 'IMG-20201121-WA0149.jpg', 'IMG-20201121-WA0157.jpg', 'IMG-20201121-WA0159.jpg', 'IMG-20201121-WA0160.jpg', 'IMG-20201121-WA0161.jpg', 'IMG-20201121-WA0162.jpg', 'IMG-20201121-WA0164.jpg', 'IMG-20201121-WA0166.jpg', 'IMG-20201121-WA0168.jpg', 'IMG-20201121-WA0170.jpg', 'IMG-20201121-WA0171.jpg', 'IMG-20201121-WA0172.jpg', 'IMG-20201121-WA0173.jpg', 'IMG-20201121-WA0175.jpg', 'IMG-20201121-WA0177.jpg', 'IMG-20201121-WA0179.jpg', 'IMG-20201121-WA0180.jpg', 'IMG-20201121-WA0182.jpg', 'IMG-20201121-WA0184.jpg', 'IMG-20201121-WA0186.jpg', 'IMG-20201121-WA0188.jpg', 'IMG-20201121-WA0189.jpg', 'IMG-20201121-WA0190.jpg']
+
+k:\Memories\Chaat 2020\edit => ['1.jpg', '1.psd', '1_down.jpg']
+
+k:\Memories\Deepanka => ['me']
+
+k:\Memories\Deepanka\me => ['IMG_20201129_115017.jpg', 'IMG_20201129_115416.jpg', 'IMG_20201129_115513.jpg', 'IMG_20201129_115540.jpg', 'IMG_20201129_115606.jpg', 'IMG_20201129_115632.jpg', 'IMG_20201129_115639.jpg', 'IMG_20201129_115641.jpg', 'IMG_20201129_120243.jpg', 'IMG_20201129_120246.jpg', 'IMG_20201129_120251.jpg', 'IMG_20201129_120254.jpg', 'IMG_20201129_120311.jpg', 'IMG_20201129_120320.jpg', 'IMG_20201129_120324.jpg', 'IMG_20201129_120326.jpg', 'IMG_20201129_120327.jpg', 'IMG_20201129_120333.jpg', 'IMG_20201129_120334.jpg', 'IMG_20201129_120336.jpg', 'IMG_20201129_120340.jpg', 'IMG_20201129_120352.jpg', 'IMG_20201129_120354.jpg', 'IMG_20201129_120356.jpg', 'IMG_20201129_120359.jpg', 'IMG_20201129_120437.jpg', 'IMG_20201129_120444.jpg', 'IMG_20201129_120454.jpg', 'IMG_20201129_120501.jpg', 'IMG_20201129_120505.jpg', 'IMG_20201129_120507.jpg', 'IMG_20201129_120515.jpg', 'IMG_20201129_122551.jpg', 'IMG_20201129_122553.jpg', 'IMG_20201129_122606.jpg', 'IMG_20201129_122608.jpg', 'IMG_20201129_122610.jpg', 'IMG_20201129_122618_Burst01.jpg', 'IMG_20201129_122618_Burst02.jpg', 'IMG_20201129_122618_Burst03.jpg', 'IMG_20201129_122618_Burst04.jpg', 'IMG_20201129_122618_Burst05.jpg', 'IMG_20201129_122618_Burst06.jpg', 'IMG_20201129_122620.jpg', 'IMG_20201129_122622.jpg', 'IMG_20201129_122628.jpg', 'IMG_20201129_122633.jpg', 'IMG_20201129_122634.jpg', 'IMG_20201129_122636.jpg', 'IMG_20201129_122638.jpg', 'IMG_20201129_122642.jpg', 'IMG_20201129_122644.jpg', 'IMG_20201129_122646.jpg', 'IMG_20201129_122703.jpg', 'IMG_20201129_125248.jpg', 'IMG_20201129_125300.jpg', 'IMG_20201129_125301.jpg', 'IMG_20201129_125313.jpg', 'IMG_20201129_125315.jpg', 'IMG_20201129_125348.jpg', 'IMG_20201129_125402.jpg', 'IMG_20201129_125407.jpg', 'IMG_20201129_125436.jpg', 'IMG_20201129_145805.jpg', 'IMG_20201129_145857.jpg', 'IMG_20201129_145909.jpg', 'IMG_20201129_150004.jpg', 'IMG_20201129_150006.jpg', 'IMG_20201129_150007.jpg', 'IMG_20201129_150021.jpg', 'IMG_20201129_150051.jpg', 'IMG_20201129_150108.jpg', 'IMG_20201129_150136.jpg', 'IMG_20201129_150201.jpg', 'IMG_20201129_150214.jpg', 'IMG_20201129_150226.jpg', 'IMG_20201129_150239.jpg', 'IMG_20201129_150240.jpg', 'IMG_20201129_150303.jpg', 'IMG_20201129_150306.jpg', 'IMG_20201129_150307.jpg', 'IMG_20201129_150314.jpg', 'IMG_20201129_150343.jpg', 'IMG_20201129_150344.jpg', 'IMG_20201129_150349.jpg', 'IMG_20201129_150351.jpg', 'IMG_20201129_150354.jpg', 'IMG_20201129_150357.jpg', 'IMG_20201129_150359.jpg', 'IMG_20201129_150456.jpg', 'IMG_20201129_150511.jpg', 'IMG_20201129_150525.jpg', 'IMG_20201129_150743.jpg', 'IMG_20201129_150746.jpg', 'IMG_20201129_150755.jpg', 'IMG_20201129_150758.jpg', 'IMG_20201129_150832.jpg', 'IMG_20201129_150845.jpg', 'IMG_20201129_150845_1.jpg', 'IMG_20201129_150846.jpg', 'IMG_20201129_150846_1.jpg', 'vid']
+
+k:\Memories\Deepanka\me\vid => ['video_20201129_145511.mp4', 'video_20201129_145811.mp4', 'video_20201129_145915.mp4', 'WhatsApp Video 2020-11-27 at 4.29.42 PM.mp4', 'WhatsApp Video 2020-12-07 at 1.48.00 PM.mp4']
+
+k:\Memories\Independance Day 2020 => ['IMG_20200815_181832.jpg', 'IMG_20200815_181836.jpg', 'IMG_20200815_181920.jpg', 'IMG_20200815_181940.jpg', 'IMG_20200815_181958.jpg', 'IMG_20200815_182010.jpg']
+
+k:\Memories\Other => ['51812054_2267211653535863_487481231932391424_o.jpg', 'Before After', 'fb dp', 'IMG-20190423-WA0054.jpg', 'IMG20190212165252.jpg', 'IMG20200229123012.jpg', 'IMG20200229123018.jpg', 'IMG20200229123020.jpg', 'IMG20200229123025.jpg', 'IMG20200229123028.jpg', 'IMG20200229123031.jpg', 'IMG20200229123157.jpg', 'IMG20200229123359.jpg', 'IMG20200229123458.jpg', 'IMG20200229123502.jpg', 'IMG20200229123516.jpg', 'IMG20200229123525.jpg', 'IMG20200229123830.jpg', 'IMG20200229123846.jpg', 'IMG20200229123850.jpg', 'IMG20200229123957.jpg', 'IMG20200229124007.jpg', 'IMG20200229124038.jpg', 'IMG20200229124045.jpg', 'IMG20200229124100.jpg', 'IMG20200229124141.jpg', 'IMG20200229124207.jpg', 'IMG20200303112133.jpg', 'IMG20200303112140.jpg', 'IMG20200303185311.jpg', 'IMG20200305203609.jpg', 'IMG20200305203615.jpg', 'IMG20200307191851.jpg', 'IMG20200307191904.jpg', 'IMG20200307191946.jpg', 'IMG20200307192009.jpg', 'IMG20200307192021.jpg', 'IMG20200307192022.jpg', 'IMG20200307192023.jpg', 'IMG20200307192050.jpg', 'IMG20200307192054.jpg', 'IMG20200307192128.jpg', 'IMG20200307192154.jpg', 'IMG20200308142408.jpg', 'IMG20200308142440.jpg', 'IMG20200308233956.jpg', 'IMG20200308234035.jpg', 'IMG20200308234037.jpg', 'IMG20200308234039.jpg', 'IMG20200308234051.jpg', 'IMG20200308234052.jpg', 'IMG20200309124904.jpg', 'IMG20200309125002.jpg', 'IMG20200309125018.jpg', 'IMG20200309125038.jpg', 'IMG20200309125138.jpg', 'IMG20200309125251.jpg', 'IMG20200309125313.jpg', 'IMG20200309125318.jpg', 'IMG20200309125358.jpg', 'IMG20200309125419.jpg', 'IMG20200309125438.jpg', 'IMG20200309125504.jpg', 'IMG20200309125506.jpg', 'IMG20200309125530.jpg', 'IMG20200309125534.jpg', 'IMG20200309125539.jpg', 'IMG20200309125544.jpg', 'IMG20200309125549.jpg', 'IMG20200309125646.jpg', 'IMG20200309125710.jpg', 'IMG20200309125721.jpg', 'IMG20200309142236.jpg', 'IMG20200309142255.jpg', 'IMG20200309142402.jpg', 'IMG20200309142500.jpg', 'IMG20200309142507.jpg', 'IMG20200309142519.jpg', 'IMG20200309145723.jpg', 'IMG20200309145729.jpg', 'IMG20200309145841.jpg', 'IMG20200309145848.jpg', 'IMG20200309145941.jpg', 'IMG20200309145952.jpg', 'IMG20200309145954.jpg', 'IMG20200309145956.jpg', 'IMG20200309145956_01.jpg', 'IMG20200309150259.jpg', 'IMG20200309150314.jpg', 'IMG20200309150318.jpg', 'IMG20200309151313.jpg', 'IMG20200309151421.jpg', 'IMG20200309151430.jpg', 'IMG20200309151442.jpg', 'IMG20200309151515.jpg', 'IMG20200309151522.jpg', 'IMG20200309151529.jpg', 'IMG20200309152642.jpg', 'IMG20200309152703.jpg', 'IMG20200309152710.jpg', 'IMG20200309152716.jpg', 'IMG20200309152736.jpg', 'IMG20200309152743.jpg', 'IMG20200309152746.jpg', 'IMG20200309152755.jpg', 'IMG20200309152757.jpg', 'IMG20200309152804.jpg', 'IMG20200309152806.jpg', 'IMG20200309152814.jpg', 'IMG20200309152818.jpg', 'IMG20200309152946.jpg', 'IMG20200309152950.jpg', 'IMG20200309153213.jpg', 'IMG20200309153228.jpg', 'IMG20200309153234.jpg', 'IMG20200309153427.jpg', 'IMG20200309154303.jpg', 'IMG20200309154314.jpg', 'IMG20200309154319.jpg', 'IMG20200309154342.jpg', 'IMG20200309154931.jpg', 'IMG20200309155047.jpg', 'IMG20200309155107.jpg', 'IMG20200309155118.jpg', 'IMG20200309155200.jpg', 'IMG20200309155209.jpg', 'IMG20200309155226.jpg', 'IMG20200309155235.jpg', 'IMG20200309155826.jpg', 'IMG20200309155910.jpg', 'IMG20200309155937.jpg', 'IMG20200309155954.jpg', 'IMG20200309160237.jpg', 'IMG20200309160245.jpg', 'IMG20200309160258.jpg', 'IMG20200309160313.jpg', 'IMG20200309160334.jpg', 'IMG20200309160336.jpg', 'IMG20200309160338.jpg', 'IMG20200309160409.jpg', 'IMG20200309160516.jpg', 'IMG20200309160522.jpg', 'IMG20200309160524.jpg', 'IMG20200309160526.jpg', 'IMG20200309160528.jpg', 'IMG20200309160617.jpg', 'IMG20200309160724.jpg', 'IMG20200309160745.jpg', 'IMG20200309160836.jpg', 'IMG20200309160858.jpg', 'IMG20200309160901.jpg', 'IMG20200309160908.jpg', 'IMG20200309161138.jpg', 'IMG20200309161144.jpg', 'IMG20200309161148.jpg', 'IMG20200309161150.jpg', 'IMG20200309161152.jpg', 'IMG20200309161155.jpg', 'IMG20200309161210.jpg', 'IMG20200309161212.jpg', 'IMG20200309161236.jpg', 'IMG20200309161306.jpg', 'IMG20200309161312.jpg', 'IMG20200309161314.jpg', 'IMG20200309161347.jpg', 'IMG20200309161400.jpg', 'IMG20200309161407.jpg', 'IMG20200309161411.jpg', 'IMG20200309161439.jpg', 'IMG20200309161443.jpg', 'IMG20200309161507.jpg', 'IMG20200309161511.jpg', 'IMG20200309161515.jpg', 'IMG20200309161517.jpg', 'IMG20200309161522.jpg', 'IMG20200309161525.jpg', 'IMG20200309161528.jpg', 'IMG20200309161601.jpg', 'IMG20200309161606.jpg', 'IMG20200309161610.jpg', 'IMG20200309161614.jpg', 'IMG20200309161717.jpg', 'IMG20200309161722.jpg', 'IMG20200309161729.jpg', 'IMG20200309161800.jpg', 'IMG20200309161816.jpg', 'IMG20200309161827.jpg', 'IMG20200309161828.jpg', 'IMG20200309162001.jpg', 'IMG20200309162004.jpg', 'IMG20200309162244.jpg', 'IMG20200309162248.jpg', 'IMG20200309162253.jpg', 'IMG20200309162326.jpg', 'IMG20200309162337.jpg', 'IMG20200309162348.jpg', 'IMG20200309162414.jpg', 'IMG20200309162419.jpg', 'IMG20200309162431.jpg', 'IMG20200309162506.jpg', 'IMG20200309162539.jpg', 'IMG20200309162544.jpg', 'IMG20200309162603.jpg', 'IMG20200309162651.jpg', 'IMG20200309162702.jpg', 'IMG20200309162711.jpg', 'IMG20200309162750.jpg', 'IMG20200309162754.jpg', 'IMG20200309162821.jpg', 'IMG20200309162827.jpg', 'IMG20200309162829.jpg', 'IMG20200309162834.jpg', 'IMG20200309162929.jpg', 'IMG20200309162932.jpg', 'IMG20200309163040.jpg', 'IMG20200309163044.jpg', 'IMG20200309163126.jpg', 'IMG20200309163146.jpg', 'IMG20200309163232.jpg', 'IMG20200309163246.jpg', 'IMG20200309163250.jpg', 'IMG20200309163257.jpg', 'IMG20200309163303.jpg', 'IMG20200309163318.jpg', 'IMG20200309163319.jpg', 'IMG20200309163413.jpg', 'IMG20200309163422.jpg', 'IMG20200309163431.jpg', 'IMG20200309163445.jpg', 'IMG20200309163529.jpg', 'IMG20200309163536.jpg', 'IMG20200309163541.jpg', 'IMG20200309163811.jpg', 'IMG20200309163820.jpg', 'IMG20200309163826.jpg', 'IMG20200309163838.jpg', 'IMG20200309163845.jpg', 'IMG20200309163857.jpg', 'IMG20200309163903.jpg', 'IMG20200309163912.jpg', 'IMG20200309163925.jpg', 'IMG20200309163932.jpg', 'IMG20200309163939.jpg', 'IMG20200309163952.jpg', 'IMG20200309163956.jpg', 'IMG20200309164002.jpg', 'IMG_20180114_134604.jpg', 'IMG_20180114_134606.jpg', 'mst', 'night']
+
+k:\Memories\Other\Before After => ['Before After FINAL.jpg', 'IMG20200309125732.jpg', 'IMG20200309142415.jpg']
+
+k:\Memories\Other\fb dp => ['FINAL 2.jpg', 'final.jpg', 'final1.jpg', 'IMG20200309163823.jpg', 'IMG20200309163832.jpg']
+
+k:\Memories\Other\mst => ['1.jpg', '1.psd', 'IMG20200309161239.jpg', 'IMG20200309161809.jpg']
+
+k:\Memories\Other\night => ['1', 'cover', 'IMG20200309185509.jpg', 'IMG20200309185516.jpg', 'IMG20200309185523.jpg', 'IMG20200309185531.jpg', 'IMG20200309185545.jpg', 'IMG20200309185611.jpg', 'IMG20200309185615.jpg', 'IMG20200309185629.jpg', 'IMG20200309185641.jpg', 'IMG20200309185643.jpg', 'IMG20200309190011.jpg', 'IMG20200309190012.jpg', 'IMG20200309190017.jpg', 'IMG20200309190058.jpg', 'IMG20200309190105.jpg', 'IMG20200309190117.jpg', 'IMG20200309190228.jpg', 'IMG20200309190239.jpg', 'IMG20200309190241.jpg', 'IMG20200309191021.jpg', 'IMG20200309191025.jpg', 'IMG20200309191030.jpg', 'IMG20200309191033.jpg', 'IMG20200309191303.jpg', 'IMG20200309191357.jpg', 'IMG20200309191410.jpg', 'IMG20200309191416.jpg']
+
+k:\Memories\Other\night\1 => ['1.jpg']
+
+k:\Memories\Other\night\cover => ['cover.jpg', 'cover.psd']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Movies
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\Movies => ['5.Centimeters.per.Second.1080p.mkv', 'actc', 'AOT', 'Dark', 'desktop.ini', 'Download From FilmyGod.in -  Geetha Govindam 2018 WebRip Hindi 720p x264 AAC.mkv', 'Genius', 'hi.hi', 'Love.Rosie.2014.720p.mp4', 'Love.Rosie.2014.720p.srt', 'New Text Document.txt', 'remove', 'Spirited.Away.2001.720p.BRRip.Hindi.Dual-Audio.MoviezFlix.Co.In.mkv', 'The Platform - Sci-Fi 2019 Eng Fre Ita Spa Multi-Subs 1080p [H264-mp4]', 'The.Perfect.Date.2019.720p.WEB-DL.Hindi.Dual-Audio.MoviezFlix.Co.In.mkv', 'Vinland Saga (Season 1) (1080p)(HEVC x265 10bit)(Multi-Subs)-Judas[TGx]']
+
+k:\Movies\actc => []
+
+k:\Movies\AOT => ['1.mp4', '10.mp4', '1s.mp4', '2.mp4', '3.mp4', '4.mp4', '5.mp4', '6.mp4', '7.mp4', '8.mp4', '9.mp4', 'summ.mp4']
+
+k:\Movies\Dark => ['2', '3', 'Dark.S01E01.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S01E02.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S01E03.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S01E04.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S01E05.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S01E06.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S01E07.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S01E08.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S01E09.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S01E10.720p.English.German.MoviesFlix.Cc.mkv']
+
+k:\Movies\Dark\2 => ['Dark.S02E01.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S02E02.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S02E03.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S02E04.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S02E05.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S02E06.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S02E07.720p.English.German.MoviesFlix.Cc.mkv', 'Dark.S02E08.720p.English.German.MoviesFlix.Cc.mkv', 'hi']
+
+k:\Movies\Dark\2\hi => ['hi - Copy.docx', 'hi.docx']
+
+k:\Movies\Genius => ['Genius.S01E08.720p.WEB-HD.x264-themoviesflix.co.mkv', 'Genius.S01E09.720p.WEB-HD.x264-themoviesflix.co.mkv', 'Genius.S01E10.720p.WEB-HD.x264themoviesflix.co.mkv']
+
+k:\Movies\hi.hi => []
+
+k:\Movies\remove => []
+
+k:\Movies\The Platform - Sci-Fi 2019 Eng Fre Ita Spa Multi-Subs 1080p [H264-mp4] => ['Subtitles - [SRT-XML]', 'The Platform - Sci-Fi 2019 Eng Fre Ita Spa Multi-Subs 1080p [H264-mp4].mp4']
+
+k:\Movies\The Platform - Sci-Fi 2019 Eng Fre Ita Spa Multi-Subs 1080p [H264-mp4]\Subtitles - [SRT-XML] => ['The Platform - Sci-Fi 2019 English.srt', 'The Platform - Sci-Fi 2019 English.xml', 'The Platform - Sci-Fi 2019 French.srt', 'The Platform - Sci-Fi 2019 French.xml', 'The Platform - Sci-Fi 2019 Italian.srt', 'The Platform - Sci-Fi 2019 Italian.xml', 'The Platform - Sci-Fi 2019 Spanish.srt', 'The Platform - Sci-Fi 2019 Spanish.xml']
+
+k:\Movies\Vinland Saga (Season 1) (1080p)(HEVC x265 10bit)(Multi-Subs)-Judas[TGx] => ['[Judas] Vinland Saga S1 - 24.mkv']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+passwords.txt
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+pk
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\pk => ['pk document', 'Pk Project']
+
+k:\pk\pk document => ['IMG_20171126_154517-1-764x626.jpg', 'IMG_20171126_160606-1.jpg', 'IMG_20171126_162031_1-1.jpg', 'IMG_20171126_163536-1 (2).jpg', 'IMG_20171126_163536-1.jpg', 'IMG_20171127_215658-1-587x680_crop_492x526.jpg', 'IMG_20171127_215658-1.jpg', 'IMG_20180118_120704.jpg', 'IMG_20180118_120714-1.jpg', 'IMG_20180118_120714.jpg', 'IMG_20180118_120750-1.jpg', 'IMG_20180731_133201.jpg', 'IMG_20180731_133224.jpg', 'PhotoPictureResizer_171127_220146510_crop_624x270.jpg', 'resize.jpg']
+
+k:\pk\Pk Project => ['Animated PowerPoint Slide Template by PowerPoint School.zip', 'delivery boy.fla', 'delivery boy.swf', 'EDITED Template', 'ex1', 'high-impact-multi-colour.docx', 'How To Create a Portfolio CV Resume Presentation Template in Microsoft Office PowerPoint PPT.pptx', 'JO2.fla', 'JO2.swf', 'JO3.fla', 'JO3.swf', 'new', 'pk jpg work', 'pk portfolio latest.pptx', 'Pramod Portfolio.pptx', "PUSHPENDER'S PORTFOLIO.pptx", 'Rescouse FIles of Animated PowerPoint Slide (PowerPoint School).pptx', 'Template unedited']
+
+k:\pk\Pk Project\EDITED Template => ['MakeAnimated PowerPoint Slide by PowerPoint School.pptx', 'Rescouse FIles of Animated PowerPoint Slide (PowerPoint School).pptx']
+
+k:\pk\Pk Project\new => []
+
+k:\pk\Pk Project\pk jpg work => ['1', 'apple.jpg', 'banner1.0.jpg', 'burger.jpg', 'CBU logo.jpeg', 'facebook b1.jpg', 'FB.jpg', 'front-06.jpg', 'home new.jpg', 'logo_rf.png', 'study_point.jpg', 'visiting1F-01.jpg', 'web2.jpg']
+
+k:\pk\Pk Project\pk jpg work\1 => ['1150554_328906400578291_777728117_o.jpg', 'A_logo_F1.jpg', 'back-04.jpg', 'coaching.jpg', 'coaching4.jpg', 'front-04.jpg', 'lemon juice.jpg', 'logo mmmmmm.jpg', 'logooo.jpg', 'logo_new1.jpg', 'logo_t.png', 'pk.jpg', 'rishi_finel.jpg', 'techno serin_1.png', 'visiting1B-02.jpg']
+
+k:\pk\Pk Project\Template unedited => ['MakeAnimated PowerPoint Slide by PowerPoint School.pptx', 'Rescouse FIles of Animated PowerPoint Slide (PowerPoint School).pptx']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Softwares
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\Softwares => ['Adobe Acrobat', 'android-studio-ide-201.6858069-windows.exe', 'AnyDesk.exe', 'Audacity', 'audacity-win-2.4.1.exe', 'avast_free_antivirus_setup_online.exe', 'BattMonSetup-2.9.0.1.msi', 'BitTorrent.exe', 'BlueStacksInstaller_4.150.11.1001_native_96dad1441b9289d7ad0a6d780e38ccf9.exe', 'BlueStacksInstaller_4.205.20.1001_native_for_brawl_stars.exe', 'BraveBrowserSetup.exe', 'ChromeSetup.exe', 'com.tencent.ig_900204318_SpecialPackage_copy_567.exe', 'coral draw', 'Core-Temp-setup.exe', 'DiscordSetup.exe', 'easeUS', 'epm_free_easeus.exe', 'epm_free_installer.exe', 'ERWsetup.exe', 'Filmora', 'Firefox Installer.exe', 'Git-2.29.2.3-64-bit.exe', 'heroku-x64.exe', 'ideaIC-2020.3.2.exe', 'innosetup-6.0.3.exe', 'jdk-14_windows-x64_bin.exe', 'MBSetup.exe', 'MicrosoftEdgeSetup.exe', 'musicsuite.exe', 'mysql-installer-web-community-8.0.17.0.msi', 'Netflix_v7.54.0 MOD_(modsofapk).apk', 'node-v14.15.1-x64.msi', 'Office', 'Photoshop', 'Premiere Pro', 'PUBG-Lite-Setup.exe', 'pycharm-community-2019.3.2.exe', 'Python', 'python-3.7.9-amd64.exe', 'python-3.8.2-amd64-webinstall.exe', 'python-3.9.1-amd64.exe', 'Teams_windows_x64.exe', 'TeamViewer_Setup.exe', 'Typing Master', 'UltraISO_Premium_Edition_9.7.1.3519', 'UnityHubSetup.exe', 'uTorrent.exe', 'video-converter-ultimate_setup_full495.exe', 'vlc-3.0.8-win64.exe', 'VSCodeUserSetup-x64-1.41.1.exe', 'vs_Community.exe', 'winrar-x64-580.exe', 'YouTubeByClick-Setup.exe', 'ZoomInstaller.exe', '[Guru3D.com]-MSIAfterburnerSetup462Build15745.zip', '_Getintopc.com_epubfilereader_setup.exe']
+
+k:\Softwares\Adobe Acrobat => ['_Getintopc.com_Adobe.Acrobat.Pro.DC.2020.006.20042.iso', '_Getintopc.com_Adobe_Acrobat_Pro_DC_2020.mp4']
+
+k:\Softwares\Audacity => ['Adobe_Audition_2020_v13.0.0.519_Multilingual', '_Getintopc.com_Adobe_Audition_2020_v13.0.0.519_Multilingual.zip']
+
+k:\Softwares\Audacity\Adobe_Audition_2020_v13.0.0.519_Multilingual => ['packages', 'products', 'Readme.txt', 'resources', 'Set-up.exe']
+
+k:\Softwares\Audacity\Adobe_Audition_2020_v13.0.0.519_Multilingual\packages => ['AAM', 'ADC', 'ApplicationInfo.xml']
+
+k:\Softwares\Audacity\Adobe_Audition_2020_v13.0.0.519_Multilingual\packages\AAM => ['IPC']
+
+k:\Softwares\Audacity\Adobe_Audition_2020_v13.0.0.519_Multilingual\packages\AAM\IPC => ['IPC.pima', 'IPC.pimx', 'IPC.sig']
+
+k:\Softwares\Audacity\Adobe_Audition_2020_v13.0.0.519_Multilingual\products => ['AUDT', 'Driver.xml']
+
+k:\Softwares\Audacity\Adobe_Audition_2020_v13.0.0.519_Multilingual\products\AUDT => ['AdobeAudition13All.zip', 'application.json']
+
+k:\Softwares\Audacity\Adobe_Audition_2020_v13.0.0.519_Multilingual\resources => ['AdobePIM.dll', 'Config.xml', 'content']
+
+k:\Softwares\Audacity\Adobe_Audition_2020_v13.0.0.519_Multilingual\resources\content => ['images']
+
+k:\Softwares\Audacity\Adobe_Audition_2020_v13.0.0.519_Multilingual\resources\content\images => ['appIcon.png', 'appIcon2x.png']
+
+k:\Softwares\coral draw => ['Password 123.txt', '_Getintopc.com_CorelDRAW.GraphicsSuite.2019.x64.en-ru.UP.2.rar']
+
+k:\Softwares\easeUS => ['EaseUS_Partition_Master_13.5_Technician_Edition', '_Getintopc.com_EaseUS_Partition_Master.mp4', '_Getintopc.com_EaseUS_Partition_Master_13.5_Technician_Edition.zip']
+
+k:\Softwares\easeUS\EaseUS_Partition_Master_13.5_Technician_Edition => ['Crack', 'Readme.txt', 'Reg x64.reg', 'Reg x86.reg', 'Setup.exe']
+
+k:\Softwares\easeUS\EaseUS_Partition_Master_13.5_Technician_Edition\Crack => ['epm0.exe', 'LicenseMgr.dll', 'Main.exe']
+
+k:\Softwares\Filmora => ['data', 'Wondershare_Filmora_9.3.0.23x64_Multilingual']
+
+k:\Softwares\Filmora\data => ['Wondershare_Filmora_9.x_Effect_Packs', '_Getintopc.com_Wondershare_Filmora_9_Effects_Pack.mp4']
+
+k:\Softwares\Filmora\data\Wondershare_Filmora_9.x_Effect_Packs => ['80s_retro_set_v9.exe', '8_bit_gamer_set_v9.exe', 'action_cam_summer_set_v9.exe', 'action_cam_winter_set_v9.exe', 'beauty_set_v9.exe', 'block_buster_vol1_set_v9.exe', 'block_buster_vol2_set_v9.exe', 'built-in_Effect_Pack.exe', 'business_set_v9.exe', 'cinematic_overlay_set_v9.exe', 'education_set_v9.exe', 'fashion_set_v9.exe', 'fitness_set_v9.exe', 'food_set_v9.exe', 'free_effects_collection_vol1.exe', 'gaming_set_v9.exe', 'geometric_set_v9.exe', 'holiday_set_v9.exe', 'japanese_set_v9.exe', 'news_set_v9.exe', 'Readme.txt', 'scifi_set_v9.exe', 'title_expansion_set_v9.exe', 'travel_set_v9.exe', 'wedding_set_v9.exe']
+
+k:\Softwares\Filmora\Wondershare_Filmora_9.3.0.23x64_Multilingual => ['Crack', 'filmora_64bit_full846.exe', 'Readme.txt']
+
+k:\Softwares\Filmora\Wondershare_Filmora_9.3.0.23x64_Multilingual\Crack => ['PYG64.dll', 'winmm.dll']
+
+k:\Softwares\Office => ['Microsoft_Office_2019_Pro_Plus_Retail']
+
+k:\Softwares\Office\Microsoft_Office_2019_Pro_Plus_Retail => ['INFO', 'ProPlus2019.en-US.img']
+
+k:\Softwares\Office\Microsoft_Office_2019_Pro_Plus_Retail\INFO => ['Extras', 'Microsoft Office 2019 Pro Plus Retail MULTi-25 NOV 2020 {Gen2}.txt', 'Version.png']
+
+k:\Softwares\Office\Microsoft_Office_2019_Pro_Plus_Retail\INFO\Extras => ['7-Zip', 'C2R-R2V_12', 'Online KMS']
+
+k:\Softwares\Office\Microsoft_Office_2019_Pro_Plus_Retail\INFO\Extras\7-Zip => ['7z1900-x64.msi', '7z1900-x86.msi']
+
+k:\Softwares\Office\Microsoft_Office_2019_Pro_Plus_Retail\INFO\Extras\C2R-R2V_12 => ['bin', 'C2R-R2V.cmd', 'ReadMe.txt']
+
+k:\Softwares\Office\Microsoft_Office_2019_Pro_Plus_Retail\INFO\Extras\C2R-R2V_12\bin => ['cleanosppx64.exe', 'cleanosppx86.exe']
+
+k:\Softwares\Office\Microsoft_Office_2019_Pro_Plus_Retail\INFO\Extras\Online KMS => ['Check_Activation_Status.cmd', 'Online_KMS_Activation', 'ReadMe.txt']
+
+k:\Softwares\Office\Microsoft_Office_2019_Pro_Plus_Retail\INFO\Extras\Online KMS\Online_KMS_Activation => ['Activate.cmd', 'BIN', 'Renewal_Setup.cmd', 'Uninstall.cmd', '_ReadMe.txt']
+
+k:\Softwares\Office\Microsoft_Office_2019_Pro_Plus_Retail\INFO\Extras\Online KMS\Online_KMS_Activation\BIN => ['cleanosppx64.exe', 'cleanosppx86.exe', '_Info.txt']
+
+k:\Softwares\Premiere Pro => ['_Getintopc.com_Adobe.Premiere.Pro.2020.Multilingual.iso', '_Getintopc.com_Adobe_Premiere_Pro_CC_2020.mp4']
+
+k:\Softwares\Python => ['Git-2.24.1.2-64-bit.exe', 'python-3.8.1.exe']
+
+k:\Softwares\Typing Master => ['Typing_Master_v10_and_v7.10', '_Getintopc.com_Typing_Master_Pro_10.mp4', '_Getintopc.com_Typing_Master_v10_and_v7.10.zip']
+
+k:\Softwares\Typing Master\Typing_Master_v10_and_v7.10 => ['Crack', 'Instructions.txt', 'Registry Edit', 'Setups']
+
+k:\Softwares\Typing Master\Typing_Master_v10_and_v7.10\Crack => ['TypingMaster 10 Crack.exe']
+
+k:\Softwares\Typing Master\Typing_Master_v10_and_v7.10\Registry Edit => ['reg-edit.exe']
+
+k:\Softwares\Typing Master\Typing_Master_v10_and_v7.10\Setups => ['TypingMasterv10Setup.exe', 'TypingMasterv7.10setup.exe']
+
+k:\Softwares\UltraISO_Premium_Edition_9.7.1.3519 => ['Crack', 'uiso97pes.exe']
+
+k:\Softwares\UltraISO_Premium_Edition_9.7.1.3519\Crack => ['uikey.ini']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Songs
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\Songs => ['2 Number - Bilal Saeed (ft Dr. Zeus, Amrinder Gill).mp3', 'Aadat.mp3', 'Aaj Bhi - Vishal Mishra.mp3', 'Aashiqui 2 Mashup_full_song_kiran_kamath (y2mate.com).mp3', 'Ab_Tere_Bin_Jee_Lenge_Hum_-_Raj_Barman_Unplugged_Cover_- DjIndiaWap.Com.mp3', 'Adhi Adhi Raat-(Mr-Jatt.com).mp3', 'Ae Kash Kahin Aisa Hota (Unplugged Cover) Raj Barman(jiomix.in).mp3', 'Atif-Aslam-Medley.mp3', 'Awaara (Alone).mp3', 'Baarish Lete Aana.mp3', 'Bahut Pyaar Karte Hain - Manan Bhardwaj 320kbps(justgana.in).mp3', 'Banjaara - Ek Villain.mp3', 'Bazzi - Beautiful feat. Camila Cabello.mp3', 'Beparwaiyan Refix.mp3', 'Bhagwan Hai Kahan Re Tu.mp3', 'Bina Tere Na Ek Pal Ho Na Bin Tere Kabhi Kal Ho by Vicky Singh(Play9.in).mp3', 'Black - Guru Randhawa.mp3', 'Brown Munde.mp3', 'Chal Ghar Chalen  Malang -(Mr-Jatt.com).mp3', 'Chhad Gayi - Guru.mp3', 'Dance Monkey.mp3', 'Dard Dilo Ke - The Xpose ( Full Song ).mp3', 'desktop.ini', 'Dil Darbadar.mp3', 'Dil Ibaadat (Reprise) _ JalRaj _ KK _ Emraan Hashmi _ Tum Mile.mp3', 'Dilbara - Pati Patni Aur Woh 320 Kbps.mp3', 'Duniyaa-(Mr-Jatt.com).mp3', 'Filhall-B-Praak_001.mp3', 'Forget me-Meet.mp3', 'Galliyan (Moving On) - Mickey Singh.mp3', 'Guilty.mp3', 'Haan Har Ghadi - Thank You HD (320  kbps).mp3', 'Haare Sajna - Kanth Kaler.mp3', 'Hanju.mp3', 'HARE HARE - HUM TO DIL SE HARE  UNPLUGGED COVER  SHARIQUE KHAN  JOSH  NEW VERSION SAD SONG 2018.mp3', 'Hawa De Warke.mp3', 'I Fly For You Carnival Row.mp3', 'Ijazat - Falak Shabir (DjPunjab.Com).mp3', 'Jay-Jaykara (Baahubali 2 - The Conclusion) (Baahubali 2 - The Conclusion) 320 Kbps.mp3', 'Jeene Bhi De Duniya Hume Arijit Singh_320(SongMusic.In).mp3', 'Jeene De Na Untouchables - Raj Barman(Mp3meet.com).mp3', 'Jitni Dafa (Parmanu - The Story Of Pokhran) 320 Kbps.mp3', 'Kaash - Gulam Jugni.mp3', 'Kaash Aisa Hota Darshan Raval 320kbps-(Mp3Dio).mp3', 'Kade-Ta-Tu-Avenga-Runbir.mp3', 'Kahi-ban-kar-hawa-probhai-com-ashiwini-bharadwaj-and-khushboo-sharma-(probhai.wapkiz.com).mp3', 'Kaise Hua - Kabir Singh 320 Kbps.mp3', 'Khamoshiyan (Arijit Singh) 320Kbps.mp3', 'Kisi Ki Muskurahaton Pe Ho Nisar _ Raj Kapoor _ Anari _ Mukesh.mp3', 'Ku Ku - (amlijatt.in).mp3', 'Kyun Main Jaagoon.mp3', 'Lovely by Billie Eilish - ft. Khalid.mp3', 'Maa (Laadla) __ Reprise Version __Teri Ungli pakad ke chala__ Ricky Abhishek Chowdhary.mp3', 'Mahiya (Bilal Saeed).mp3', 'Main Dhoondne Ko Zamaane Mein - Heartless (Arijit Singh).mp3', 'Main Duniya Bhula Dunga Cover Siddharth Slathia_320-(Mp3Sun.Com).mp3', 'Main Suneya - Ammy Virk.mp3', 'Main Tan Vi Pyar Kardan Ft Millind Gaba.mp3', 'Mann Mera - Gajendra Verma 320Kbps.mp3', 'mash up.mp3', 'MashUp_arjit_singh.mp3', 'Mere Hi Apne Nu Meri Hi Nahi Jarurat.mp3', 'Mohabbat Yeh (Bilal Saeed) Ishqedarriyaan.mp3', 'Natural-Imagine Dragons.mp3', 'Patola - Guru Randhawa Bohemia.mp3', 'Phir Mohabbat - Arijit Singh.mp3', 'Phir Mulaakat - Cheat India_320(Mymp3g.com).mp3', 'Photo - Karan Sehmbi.mp3', 'Playlists', 'Pyar-Ik-Tarfa-128kbps-DjBAAP.COM.mp3', 'Rim Jhim Gire Sawan (Unplugged Cover) Rahul Jain(Djpr.in).mp3', 'Saah.mp3', 'Saajna-Falak-Shabir.mp3', 'Sakhiyan_Maninder_Buttar_50f01534794245e5c8f0b79e152189e1_320.mp3', 'Snowman-Sia.mp3', 'Sunn Raha Hai - PagalSongs.com.mp3', 'Temporary Pyar.mp3', 'Tennu Ni Khabran - Kaka.mp3', 'Tera Hone Laga Hoon-(Mr-Jatt.com).mp3', 'Tera Zikr - Darshan Raval.mp3', 'Tera-Yaar-Hoon-Main-Arijit-Singh.mp3', 'Tere Bina Zindagi Se Koi n Kya Janu Sajan - Raj Barman 128Kbps(NewMrjatt.Com).mp3', 'Teri Khair Mangdi - Baar Baar Dekho (Bilal Saeed).mp3', 'Teriyaan Deedaan (Dil Diyan Gallan) - Prabh Gill.mp3', 'Thunderstruck - 2CELLOS.mp3', 'TOM And JERRY Satbir Aujla _ Satti Dhillon _ Punjabi Song 2019.mp3', 'Tu Ik Din Rovenga.mp3', 'Tu Jaane Na-(Mr-Jatt.com).mp3', 'Tu-Kal-Chala-Jayega-Mohammed-Aziz,Manhar-Udhas.mp3', 'Tujhe Kitna Chahein Aur - Kabir Singh (2019).mp3', 'Tujhe Kitna Chahne Lage-(Mr-Jatt.com).mp3', 'Tum Hi Aana Video - Marjaavaan - Riteish D, Sidharth M, Tara S - Jubin Nautiyal - Payal Dev Kunaal V (320  kbps) (ytmp3s.me).mp3', 'Tum Hi Ho (Instrumental) (DjRaag.Net).mp3', 'Tum Se Jubin Nautiyal.mp3', 'Tumse Milke Dilka Jo Haal - Main Hoon Na.mp3', 'Tunes', 'Tune_Mere_Jaana-Gajendra_Verma-www.Mp3Mad.Com.mp3', 'Udaarian - Satinder Sartaaj.mp3', 'Udd Ja Kaale Kanwan - Unplugged Cover _ Amandeep Singh _ Gadar _ Udit Narayan _ Sunny Deol _ Ameesha_OJc2HMKZNa4.mp3', 'Unplugged Hindi Songs 2019 Mashup (y2mate.com).mp3', 'Wo Ladki Jo Sabse Alag Hai _ JalRaj.mp3', 'Yaarian - Amrinder Gill Ft Dr. Zeus.mp3', 'Zaalima-Bohemia-Waqar_Ex-www.Mp3Mad.Com.mp3', 'Zara Zara Behekta Hai_ JalRaj.mp3', 'Zaroorat - Ek Villain.mp3', 'Zaroori Tha - Rahat Fateh Ali Khan.mp3', 'Zindagi Tere Naal - Khan Saab.mp3', 'Zindagi.mp3']
+
+k:\Songs\Playlists => ['rock.zpl', 'temp.zpl']
+
+k:\Songs\Tunes => ['moonu_theme_music__3.mp3', 'The Godfather Theme - 2CELLOS.mp3']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Story
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\Story => ['1. Fear', '2. Beginning', 'Background Tracks', 'IMG20201013121907.jpg', 'IMG20201013121914.jpg']
+
+k:\Story\1. Fear => ['1.mp3', '2.mp3', 'ever severo.m4a', 'I_Am_Iron.mp3', 'Start.txt', 'try 1', 'try 1.mp3', 'txt']
+
+k:\Story\1. Fear\try 1 => ['1.m4a', 'I_Am_Iron.aup', 'I_Am_Iron_data']
+
+k:\Story\1. Fear\try 1\I_Am_Iron_data => ['e08']
+
+k:\Story\1. Fear\try 1\I_Am_Iron_data\e08 => ['d08']
+
+k:\Story\1. Fear\try 1\I_Am_Iron_data\e08\d08 => ['e08080bc.au', 'e08080fb.au', 'e080811f.au', 'e080819f.au', 'e08081d0.au', 'e0808205.au', 'e0808207.au', 'e08082f8.au', 'e0808346.au', 'e0808366.au', 'e08083a8.au', 'e08083bb.au', 'e08083be.au', 'e08083da.au', 'e0808447.au', 'e080845c.au', 'e0808488.au', 'e080848b.au', 'e08084d8.au', 'e080851b.au', 'e080852e.au', 'e0808532.au', 'e080854c.au', 'e080855d.au', 'e080856a.au', 'e0808585.au', 'e080859e.au', 'e08085be.au', 'e080862a.au', 'e0808632.au', 'e080863b.au', 'e0808695.au', 'e08086c7.au', 'e08086d8.au', 'e08086e6.au', 'e08086fb.au', 'e0808714.au', 'e080871b.au', 'e0808749.au', 'e080874b.au', 'e0808769.au', 'e08087dd.au', 'e0808802.au', 'e080880f.au', 'e0808849.au', 'e080885c.au', 'e0808884.au', 'e08088d8.au', 'e08088f4.au', 'e0808903.au', 'e080890e.au', 'e080895e.au', 'e0808965.au', 'e0808971.au', 'e080898c.au', 'e0808990.au', 'e0808998.au', 'e08089d5.au', 'e0808a14.au', 'e0808a2c.au', 'e0808a65.au', 'e0808a93.au', 'e0808a99.au', 'e0808ade.au', 'e0808b1d.au', 'e0808b38.au', 'e0808b4e.au', 'e0808bca.au', 'e0808bfb.au', 'e0808c29.au', 'e0808c32.au', 'e0808c47.au', 'e0808c5f.au', 'e0808c6a.au', 'e0808cba.au', 'e0808d4a.au', 'e0808d7b.au', 'e0808d82.au', 'e0808e83.au', 'e0808f1a.au', 'e0808f28.au', 'e0808f39.au', 'e0808f83.au', 'e0808f90.au', 'e0808fb0.au']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Study
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\Study => ['40 Days', 'Chemistry', 'Chemistry Notes', 'DELETEDChemistry_2020-21.pdf', 'DELETEDComputer_Science_2020-21.pdf', 'DELETEDEnglish_Core_2020-21.pdf', 'DELETEDMathematics_2020-21.pdf', 'DELETEDPhysical_Education_2020-21.pdf', 'DELETEDPhysics_2020-21.pdf', 'Maths', 'Physics', 'Physics Notes', 'PPT', 'Previous Year']
+
+k:\Study\40 Days => ['Arihant_40_Days_Crash_Course_for_JEE_Main_Chemistry_crackjee_xyz.pdf', 'Arihant_40_Days_Crash_Course_for_JEE_Main_Mathematics.pdf']
+
+k:\Study\Chemistry => []
+
+k:\Study\Chemistry Notes => ['1. Solid State.pdf', '10. Haloalkanes & Haloarenes.pdf', '11. Alcohol Phenol & Ethers.pdf', '13. Amines.pdf', '2. Solution.pdf', '3. Electrochemistry.pdf', '4. Chemical Kinetics.pdf', '5. Surface Chemistry.pdf', '9. Coordination Compound.pdf']
+
+k:\Study\Maths => ['sec^2(x) = 1devidecos^2(x).png']
+
+k:\Study\Physics => ['12 chap 9  Ray Optics JEENEET', 'ch 1 q.png']
+
+k:\Study\Physics\12 chap 9  Ray Optics JEENEET => ['01. 12th Chapter 9  Ray Optics 01  Introduction & Reflection in a Plane Mirror  JEE NEET.mp4', '02. Ray Optics 02  Number of Images formeed by Two Plane Mirrors JEENEET.mp4']
+
+k:\Study\Physics Notes => ['1. Electric Charges and Fields.pdf', '2. Electrostatic Potential and Capacitance.pdf', '3. Current Electricity.pdf', '4. Moving Charges and Magnetism.pdf', '5. Magnetism and Matter.pdf', '6. EMI.pdf', '7. Alternating Current.pdf', '8. ELECTROMAGNETIC WAVES.pdf', '9. Ray optics And Optical Instruments.pdf']
+
+k:\Study\PPT => ['C.S.pptx', 'ENGLISH.pptx', 'FINAL.png', 'PROJECT cs [SMS].pptx', 'PROJECT cs [SMS]_0.pdf', '~$PROJECT cs [SMS].pptx']
+
+k:\Study\Previous Year => ['Physics']
+
+k:\Study\Previous Year\Physics => ['2015.pdf', '2016.pdf', '2017.pdf', '2018.pdf', '2019.pdf', '2020']
+
+k:\Study\Previous Year\Physics\2020 => ['CBSE_class_12_Physics_full_que_0.jpeg', 'CBSE_Physics_1-x1280.jpg', 'CBSE_Physics_11-x1280.jpg', 'CBSE_Physics_13-x1280.jpg', 'CBSE_Physics_15-x1280.jpg', 'CBSE_Physics_3-x1280.jpg', 'CBSE_Physics_5-x1280.jpg', 'CBSE_Physics_7-x1280.jpg', 'CBSE_Physics_9-x1280.jpg']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+System Volume Information
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Video Projects
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\Video Projects => ['Complete', 'Video']
+
+k:\Video Projects\Complete => ['2.prproj', 'Adobe Premiere Pro Audio Previews', 'Adobe Premiere Pro Auto-Save', 'Adobe Premiere Pro Captured Audio']
+
+k:\Video Projects\Complete\Adobe Premiere Pro Audio Previews => ['2.PRV']
+
+k:\Video Projects\Complete\Adobe Premiere Pro Audio Previews\2.PRV => ['4e1f9654-f44d-4535-b81e-d7aa05c858cc+602ee771-dffd-3b89-5ee7-1fef00000049 44100.cfa', 'c263ec81-bdeb-4474-8f91-21c9258e196b+e711eaf8-4413-e378-8c31-5fa200000049 44100.cfa', 'Peak Files']
+
+k:\Video Projects\Complete\Adobe Premiere Pro Audio Previews\2.PRV\Peak Files => ['4e1f9654-f44d-4535-b81e-d7aa05c858cc+602ee771-dffd-3b89-5ee7-1fef00000049 44100.pek', 'c263ec81-bdeb-4474-8f91-21c9258e196b+e711eaf8-4413-e378-8c31-5fa200000049 44100.pek']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Wallpaper
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+k:\\Wallpaper => ['1004382.png', '1005296.png', '1007548.jpg', '1012072.jpg', '1014466.jpg', '1024473.png', '1024949.jpg', '1026796.jpg', '1031843.jpg', '1034563.jpg', '1042231.jpg', '1042575.png', '1043544.png', '1053282.png', '1054250.png', '1056213.png', '1060299.jpg', '1087262.jpg', '11737.jpg', '188135.jpg', '2121737.jpg', '2159457.jpg', '39868.png', '418724.png', '451608.jpg', '522623.jpg', '526887.jpg', '567918.png', '587597.jpg', '596610.jpg', '596711.jpg', '596848.jpg', '596859.jpg', '598673.jpg', '677543.jpg', '681016.jpg', '715447.png', '718319.png', '729731.jpg', '733485.png', '736461.png', '737385.jpg', '737474.png', '815314.png', '819837.png', '856542.jpg', '894677.jpg', '900439.png', '910289.jpg', '918477.jpg', '932487.jpg', '932845.jpg', '932853.jpg', '933418.jpg', '933512.jpg', '937834.jpg', '939500.jpg', '943238.jpg', '944104.png', '944612.png', '959309.jpg', '997829.jpg', '997887.jpg', '997901.png', '999793.jpg', 'abstract-art-black-background-blur-1040499.jpg', 'alberta-amazing-attraction-banff-417074.jpg', 'ancient_castle_in_winter_snow_4k.jpg', 'architecture-art-bridge-cliff-459203.jpg', 'astronomy-1867616.jpg', 'b-582974.jpg', 'bentley_continental_24_4k_2017.jpg', 'bentley_continental_gt_ice_race_2020_4k_8k.jpg', 'bird-s-eye-view-of-a-seashore-1519753.jpg', 'bright-daylight-environment-forest-240040.jpg', 'brown-and-green-mountain-view-photo-842711.jpg', 'cropped-1920-1080-1023171.jpg', 'd8b9ab5cd896062812e121ef1f14f896.jpg', 'deer_art_vector_134088_3840x2160.jpg', 'fantasy-3378426.jpg', 'fantasy-3846418.jpg', 'golden_gate_bridge_at_sunset.jpg', 'golden_gate_bridge_landscape_4k.jpg', 'gray-bridge-and-trees-814499.jpg', 'hakon-sataoen-XFiY4FZj8ZE-unsplash.jpg', 'jonatan-pie-3l3RwQdHRHg-unsplash.jpg', 'landscape-photography-of-mountains-covered-in-snow-691668.jpg', 'lawn_forest_mountains_144578_3840x2160.jpg', 'leaves_autumn_fog_155158_3840x2160.jpg', 'legend of zelda iphone [1980x1080] - Imgur.jpg', 'mystery-4532583.jpg', 'mystic_owl_2.jpg', 'n1.png', 'n10.jpg', 'n11.jpg', 'n12.jpg', 'n13.jpg', 'n14.png', 'n15.jpg', 'n16.jpg', 'n17.jpg', 'n18.png', 'n19.jpg', 'n2.png', 'n20.jpg', 'n21.jpg', 'n22.jpg', 'n23.jpg', 'n3.jpg', 'n4.jpg', 'n5.jpg', 'n6.png', 'n7.jpg', 'n8.jpg', 'n9.jpg', 'NameLess Cover.jpg', 'nature-red-forest-leaves-33109.jpg', 'nature_mountain_forest_landscape_fog_house_tree_ultrahd_4k_wallpaper_3840x2160.jpg', 'neon_cityscape_4k.jpg', 'night-1846734.jpg', 'night-3129908.jpg', 'Noragami_1.jpg', 'Noragami_2.jpg', 'Noragami_3.jpg', 'Noragami_4.jpg', 'Noragami_5.png', 'Noragami_6.jpg', 'Noragami_7.jpg', 'photography-of-mountains-under-cloudy-sky-1183099.jpg', 'rayquaza_pokemon_5k.jpg', 'sci_fi_landscape_4k.jpg', 'sergey-pesterev-r6FU8zqrgdM-unsplash.jpg', 'time-lapse-photography-of-lake-1480807.jpg', 'top-view-photo-of-rocky-shore-1698618.jpg', 'wallpaperflare.com_wallpaper.jpg', 'wallpapersden.com_eren-yeager-anime-art-4k_3671x2026.jpg', 'wallpapersden.com_eren-yeager-in-aot_2862x2560.jpg', 'wallpapersden.com_levi-ackerman-monochrome_1920x1357.jpg', 'Wallpaper_8K_0_7680x4320.jpg', 'Waterfalls_USA_Crag_Trees_Hocking_Hills_State_Park_Ohio_Nature_10929x5553.jpg']
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+DRIVE CHANGE(if any)
+-----------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,8 @@
+1. Have to Put First and last name.
+2. After appling encrreption function, Now upper or lower case matter's.
+3.
+
+
+to do:
+1. put sumitted like template in update section, like in resistration or like in delete secyion...
+2. Set at least 1000 of encreption keys...
